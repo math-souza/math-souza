@@ -1,30 +1,24 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=250&color=F0E68C&text=Math%20Souza👾&reversal=false&textBg=false">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=4682B4&text=Matheus%20Souza🔥&fontColor=FFFFFF">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&duration=3500&pause=1000&color=F0E68C&center=true&vCenter=true&width=435&lines=Solutions+Architect+%7C+DevOps;Cloud+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&duration=3500&pause=1000&color=4682B4&center=true&vCenter=true&width=435&lines=Solutions+Architect+%7C+DevOps;Cloud+Engineer">
 </p>
 
 ## Sobre mim
 
-<img align="right" height="190" src="https://art.pixilart.com/sr270b04c25e916.png">
+<img align="right" height="200" src="https://art.pixilart.com/sr270b04c25e916.png">
 
-Sou um estudante de Redes de computadores no SENAI de Informatica, onde 
+Minha jornada na tecnologia começou pela vontade de entender como as coisas funcionam por trás da tela, atualmente estou em transição de carreira para a área de Cloud Computing e DevOps. Tenho me dedicado a estudar e praticar com foco em soluções escaláveis e seguras na nuvem, principalmente utilizando Amazon Web Services (AWS).<br><br>
+Além da área de tecnologia, também sou fã de videogames — um hobby que me acompanha há anos e que despertou ainda mais meu interesse por sistemas complexos, lógica e resolução de problemas.
 
-_**"Teste de citacao" - Matheus, Souza.**_
-
-
-
-
-<br>
-<br>
-<br>
+_**"It's dangerous to go alone! Take this." – The Legend of Zelda (1986)**_
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,aws,azure,grafana,nginx,debian,arduino">
+  <img src="https://skillicons.dev/icons?i=aws,azure,windows,linux,debian,nginx,grafana,arduino">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/">
