@@ -21,8 +21,9 @@ _**"It's dangerous to go alone! Take this." – The Legend of Zelda (1986)**_
   <img src="https://skillicons.dev/icons?i=aws,azure,windows,linux,debian,nginx,grafana,arduino">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 <!--
 **math-souza/math-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
